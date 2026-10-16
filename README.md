@@ -110,14 +110,12 @@ pip install -r requirements.txt
 
 ## 🌐 Як завантажити на GitHub (посилання на репозиторій)
 
-1. Створіть новий репозиторій на [GitHub](https://github.com/new) (наприклад, з назвою `ml-regression-electricity`).
-2. У терміналі виконайте команди:
+1. Створіть новий репозиторій на [GitHub](https://github.com/new) з назвою **`ml-regression-electricity`** (або `dz_regression`).
+2. У терміналі виконайте команди для завантаження:
    ```bash
-   git init
-   git add .
-   git commit -m "Complete ML Linear Regression homework (Task 1 & Task 2)"
    git branch -M main
-   git remote add origin https://github.com/ВАШ_ЛОГІН/ml-regression-electricity.git
+   git remote add origin https://github.com/programivan/ml-regression-electricity.git
    git push -u origin main
    ```
-3. Скопіюйте посилання на ваш репозиторій та надішліть на перевірку.
+3. Посилання на готовий репозиторій для здачі завдання:
+   **https://github.com/programivan/ml-regression-electricity**
